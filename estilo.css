@@ -1,6 +1,6 @@
 header{
     background: rgb(91, 169, 233);
-    position: fixed;
+    position: center;
     width:100%;
     box-shadow:  5px 5px 10px;
 }
@@ -10,5 +10,5 @@ h1{
 li{
     display: inline-block;
     font-size: 30px;
-    margin-left:7%;
+    margin-left:10%;
 }
