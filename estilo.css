@@ -2,7 +2,7 @@ header{
     background: rgb(91, 169, 233);
     position: fixed;
     width:100%;
-    box-shadow:  
+    box-shadow:  5px 5px 10px;
 }
 h1{
     text-align: center;
