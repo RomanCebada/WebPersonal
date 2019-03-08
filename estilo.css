@@ -1,0 +1,14 @@
+header{
+    background: rgb(91, 169, 233);
+    position: fixed;
+    width:100%;
+    box-shadow:  
+}
+h1{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    font-size: 30px;
+    margin-left:7%;
+}
